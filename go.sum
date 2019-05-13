@@ -1,0 +1,4 @@
+github.com/gballet/hid v0.0.0-20190507082517-9e0a1cda7275 h1:veI53CFybYgIueidrtoQNiHhj6kAmYq+E2mq0xevQSQ=
+github.com/gballet/hid v0.0.0-20190507082517-9e0a1cda7275/go.mod h1:iYNN88tF178cvVlTyA4wB6XsojueBMMbpWySQpW7cQg=
+github.com/gballet/hid v0.0.0-20190513115129-3af5da6f59ad h1:zeTyBW4+tIZAL2oEy7CusS3OlbbGiadwd/8xEgjoKY0=
+github.com/gballet/hid v0.0.0-20190513115129-3af5da6f59ad/go.mod h1:iYNN88tF178cvVlTyA4wB6XsojueBMMbpWySQpW7cQg=
